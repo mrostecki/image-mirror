@@ -507,6 +507,7 @@ quay.io/cilium/cilium rancher/mirrored-cilium-cilium v1.9.6
 quay.io/cilium/cilium rancher/mirrored-cilium-cilium v1.9.8
 quay.io/cilium/cilium rancher/mirrored-cilium-cilium v1.10.4
 quay.io/cilium/cilium rancher/mirrored-cilium-cilium v1.11.0
+quay.io/cilium/operator rancher/mirrored-cilium-operator v1.11.0
 quay.io/cilium/operator-aws rancher/mirrored-cilium-operator-aws v1.9.4
 quay.io/cilium/operator-aws rancher/mirrored-cilium-operator-aws v1.9.6
 quay.io/cilium/operator-aws rancher/mirrored-cilium-operator-aws v1.9.8
